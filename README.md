@@ -23,5 +23,9 @@ Example 4:
 ![choose_dim](https://github.com/user-attachments/assets/6e394154-fd1b-457c-9e19-ef254dab27fa)
 
 Example 5:
-[See the interactive worksheet:](https://public.tableau.com/app/profile/ayse.gocer/viz/Ayse_Dynamic_WorkSheet_5/Dashboard2?publish=yes)
+[See the interactive dashboard:](https://public.tableau.com/app/profile/ayse.gocer/viz/Ayse_Dynamic_WorkSheet_4/Dashboard1?publish=yes)
+![dashbord_1](https://github.com/user-attachments/assets/31a7e4aa-0d41-48ea-9c73-e21c5bd5d7ea)
+
+Example 6:
+[See the interactive dashboard:](https://public.tableau.com/app/profile/ayse.gocer/viz/Ayse_Dynamic_WorkSheet_5/Dashboard2?publish=yes)
 ![filter](https://github.com/user-attachments/assets/cb582d30-acb4-4a4c-a67b-669b6e53d365)
