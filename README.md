@@ -33,3 +33,7 @@ Example 6:
 Example 7:
 [See the interactive worksheet:](https://public.tableau.com/app/profile/ayse.gocer/viz/Ayse_Dynamic_WorkSheet_6/Sheet7?publish=yes)
 ![action_set](https://github.com/user-attachments/assets/08bfa68f-fb74-4a44-82ae-97630350bb6b)
+
+Example 8:
+[See the interactive dashboard:](https://public.tableau.com/app/profile/ayse.gocer/viz/Ayse_Dynamic_WorkSheet_7/Dashboard3?publish=yes)
+![by_month](https://github.com/user-attachments/assets/c8a4e5df-2b39-4106-be9e-fe013fa35ed5)
