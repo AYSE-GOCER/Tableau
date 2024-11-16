@@ -21,3 +21,7 @@ Example 4:
 
 [See the interactive worksheet:](https://public.tableau.com/app/profile/ayse.gocer/viz/Ayse_Dynamic_WorkSheet_3/DynamicDimensions)
 ![choose_dim](https://github.com/user-attachments/assets/6e394154-fd1b-457c-9e19-ef254dab27fa)
+
+Example 5:
+[See the interactive worksheet:](https://public.tableau.com/app/profile/ayse.gocer/viz/Ayse_Dynamic_WorkSheet_5/Dashboard2?publish=yes)
+![filter](https://github.com/user-attachments/assets/cb582d30-acb4-4a4c-a67b-669b6e53d365)
