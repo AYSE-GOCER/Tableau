@@ -29,3 +29,7 @@ Example 5:
 Example 6:
 [See the interactive dashboard:](https://public.tableau.com/app/profile/ayse.gocer/viz/Ayse_Dynamic_WorkSheet_5/Dashboard2?publish=yes)
 ![filter](https://github.com/user-attachments/assets/cb582d30-acb4-4a4c-a67b-669b6e53d365)
+
+Example 7:
+[See the interactive worksheet:](https://public.tableau.com/app/profile/ayse.gocer/viz/Ayse_Dynamic_WorkSheet_6/Sheet7?publish=yes)
+![action_set](https://github.com/user-attachments/assets/08bfa68f-fb74-4a44-82ae-97630350bb6b)
