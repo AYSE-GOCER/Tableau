@@ -55,8 +55,15 @@ Example 12: Search particular character in a string (STARTSWITH, ENDSWITH, CONTA
 
 [See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_11/SEARCH?publish=yes)
 
-Example 13:
-[See the interactive worksheet]()
+Example 13: Filtering the data
+
+IF CONTAINS(LOWER([Product_Name]), "apple") THEN "Apple"
+ELSEIF CONTAINS(LOWER([Product_Name]), "samsung") THEN "Samsung"
+ELSEIF CONTAINS(LOWER([Product_Name]), "microsoft") THEN "Microsoft"
+ELSE "Unknown"
+END
+
+[See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_12/FILTERINGDATA?publish=yes)
 
 Example 14:
 [See the interactive worksheet]()
