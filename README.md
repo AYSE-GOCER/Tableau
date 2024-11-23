@@ -1,6 +1,6 @@
 **Tableau Notes**
 
-Inserting Dynamic Filters in Tableau:
+Inserting Dynamic Filters in Tableau
 
 Example 1:
 
@@ -44,5 +44,7 @@ Example 9: Lower case - Upper case strings (UPPER, LOWER)
 Example 10: Removing unwanted space from the text (LTRIM, RTRIM, TRIM, COUNTD)
 [See the interactive worksheet:](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_9/LTRIMRTRIMTRIM?publish=yes)
 
-Example 11: Extract particular text from a string (LEFT, RIGHT, MID)
-[See the interactive worksheet:]()
+Example 11: Extract particular field from a string (LEFT, RIGHT, MID)
+[See the interactive worksheet:](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_10/LEFTRIGHTMID?publish=yes)
+
+
