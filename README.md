@@ -70,3 +70,12 @@ Example 14: Filtering the data:
 LEFT([Phone], FIND([Phone], "-")-1)
 
 [See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_13/FINDFINDNTH?publish=yes)
+
+Example 15: Combine and/or split data:
+
+- [First_Name] + " " + [Last_Name]
+- [Category] + ":" + [Product_Name]
+- SPLIT([Phone], "-", 2)
+- SPLIT([Phone],"-", 3) + "-" + SPLIT([Phone],"-", 4)
+  
+[See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_14/SPLITCOMBINE?publish=yes)
