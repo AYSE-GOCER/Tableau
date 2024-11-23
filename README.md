@@ -82,7 +82,7 @@ Example 15: Combine and/or split data:
 
 Example 16: Replace:
 
--REPLACE([Phone], "+", "00")
--REPLACE(REPLACE([Phone], "+", "00"), "-", "")
+- REPLACE([Phone], "+", "00")
+- REPLACE(REPLACE([Phone], "+", "00"), "-", "")
 
 [See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_15/REPLACE?publish=yes)
