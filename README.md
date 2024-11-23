@@ -79,3 +79,9 @@ Example 15: Combine and/or split data:
 - SPLIT([Phone],"-", 3) + "-" + SPLIT([Phone],"-", 4)
   
 [See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_14/SPLITCOMBINE?publish=yes)
+
+Example 16: Replace:
+
+-REPLACE([Phone], "+", "00")
+
+[See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_15/REPLACE?publish=yes)
