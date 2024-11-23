@@ -45,4 +45,18 @@ Example 10: Removing unwanted space from the text (LTRIM, RTRIM, TRIM, COUNTD):
 Example 11: Extract particular field from a string (LEFT, RIGHT, MID):
 [See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_10/LEFTRIGHTMID?publish=yes)
 
+Example 12: Search particular character in a string (STARTSWITH, ENDSWITH, CONTAINS):
 
+- CONTAINS(LOWER([Product_Name]), "samsung")
+
+- STARTSWITH([Product_Name],"Apple")
+
+- ENDSWITH([Product_Name], "Clock")
+
+[See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_11/SEARCH?publish=yes)
+
+Example 13:
+[See the interactive worksheet]()
+
+Example 14:
+[See the interactive worksheet]()
