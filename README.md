@@ -1,6 +1,4 @@
-**Tableau Notes**
-
-Inserting Dynamic Filters in Tableau
+**Tableau Notes: Inserting Dynamic Filters in Tableau**
 
 Example 1:
 
@@ -38,13 +36,13 @@ Example 8:
 [See the interactive dashboard:](https://public.tableau.com/app/profile/ayse.gocer/viz/Ayse_Dynamic_WorkSheet_7/Dashboard3?publish=yes)
 ![by_month](https://github.com/user-attachments/assets/c8a4e5df-2b39-4106-be9e-fe013fa35ed5)
 
-Example 9: Lower case - Upper case strings (UPPER, LOWER)
-[See the interactive worksheet:](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_8/LowerUpper?publish=yes)
+Example 9: Lower case - Upper case strings (UPPER, LOWER):
+[See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_8/LowerUpper?publish=yes)
 
-Example 10: Removing unwanted space from the text (LTRIM, RTRIM, TRIM, COUNTD)
-[See the interactive worksheet:](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_9/LTRIMRTRIMTRIM?publish=yes)
+Example 10: Removing unwanted space from the text (LTRIM, RTRIM, TRIM, COUNTD):
+[See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_9/LTRIMRTRIMTRIM?publish=yes)
 
-Example 11: Extract particular field from a string (LEFT, RIGHT, MID)
-[See the interactive worksheet:](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_10/LEFTRIGHTMID?publish=yes)
+Example 11: Extract particular field from a string (LEFT, RIGHT, MID):
+[See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_10/LEFTRIGHTMID?publish=yes)
 
 
