@@ -86,3 +86,18 @@ Example 16: Replace:
 - REPLACE(REPLACE([Phone], "+", "00"), "-", "")
 
 [See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_15/REPLACE?publish=yes)
+
+Example 17: Date Functions:
+
+- DATEPART('year', [Order Date]) (numeric output)
+- DATENAME('year', [Order Date]) (string output)
+- YEAR([Order Date]) (numeric output)
+- MONTH([Order Date])
+- DATENAME("month",[Order Date])
+- DAY([Order Date])
+- QUARTER([Order Date])
+- LEFT(DATENAME("month",[Order Date]),3)
+
+[See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/Ayse_Dynamic_WorkSheet_16/DATEFUNCTIONS?publish=yes)
+![date_functions](https://github.com/user-attachments/assets/b03da04e-b5fb-4936-b36a-f923c5e12ce0)
+[See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/Ayse_Dynamic_WorkSheet_17/DATEFUNCTIONS?publish=yes)
