@@ -103,3 +103,9 @@ Example 17: Date Functions:
 ![date_trunck](https://github.com/user-attachments/assets/671bb784-e3fc-41a2-b65a-8dd77535886d)
 [See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/Ayse_Dynamic_WorkSheet_18/DATETRUNC?publish=yes)
 ![date_functions](https://github.com/user-attachments/assets/b03da04e-b5fb-4936-b36a-f923c5e12ce0)[See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/Ayse_Dynamic_WorkSheet_17/DATEFUNCTIONS?publish=yes)
+
+- DATEADD("year", 3, [Order Date])
+- DATEADD("month", 6, [Order Date])
+- DATEDIFF("day", [Order Date], [Shipping Date])
+![daystoship](https://github.com/user-attachments/assets/24f7cf7d-a5d8-4457-8d5f-582e67e48ef5)
+[See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/Ayse_Dynamic_WorkSheet_19/DATEADD?publish=yes)
