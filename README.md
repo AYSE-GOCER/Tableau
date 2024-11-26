@@ -40,6 +40,7 @@ Example 9: Lower case - Upper case strings:
 
  - UPPER([Product_Name]) 
  - LOWER([Product_Name])
+   
 [See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_8/LowerUpper?publish=yes)
 
 Example 10: Removing unwanted space from the text):
@@ -48,6 +49,7 @@ Example 10: Removing unwanted space from the text):
 - RTRIM([Product_Name])
 - TRIM([Product_Name])
 - COUNTD([Product_Name])
+
 [See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_9/LTRIMRTRIMTRIM?publish=yes)
 
 Example 11: Extract particular field from a string (LEFT, RIGHT, MID):
@@ -55,6 +57,7 @@ Example 11: Extract particular field from a string (LEFT, RIGHT, MID):
 - LEFT([Product_Image],5)
 - RIGHT([Product_Image], 3)
 - MID([Product_Image],9,21)
+
 [See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_10/LEFTRIGHTMID?publish=yes)
 
 Example 12: Search particular character in a string (STARTSWITH, ENDSWITH, CONTAINS):
