@@ -133,3 +133,4 @@ Example 18: Null Functions:
 - IFNULL([Country], "N/A")
 
 **ISNULL** returns True or False. ISNULL returns True for Null values.
+- ISNULL([Sales])
