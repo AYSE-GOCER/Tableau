@@ -121,3 +121,15 @@ Example 17: Date Functions:
 - DATEDIFF("day", [Order Date], [Shipping Date])
 ![daystoship](https://github.com/user-attachments/assets/24f7cf7d-a5d8-4457-8d5f-582e67e48ef5)
 [See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/Ayse_Dynamic_WorkSheet_19/DATEADD?publish=yes)
+
+Example 18: Null Functions:
+
+**ZN** replaces Null values with Zero. (Works just for numbers)
+- ZN([Sales])
+
+**IFNULL** replaces Null values with any given value (Works both numbers and strings)
+- IFNULL([Sales], 0)
+- IFNULL([Sales], 1)
+- IFNULL([Country], "N/A")
+
+**ISNULL** returns True or False. ISNULL returns True for Null values.
