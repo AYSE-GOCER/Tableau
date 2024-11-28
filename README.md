@@ -137,3 +137,10 @@ Example 18: Null Functions:
 
 **ISNULL** returns True or False. ISNULL returns True for Null values.
 - ISNULL([Sales])
+
+Example 19: Logical Functions: IF, ELSEIF, IIF support **any data type**, but CASE WHEN supports only **string**
+
+- IF [Sales] > 1000 THEN "HIGH" ELSE "LOW" END
+- IF [Sales] > 1000 THEN "HIGH" ELSEIF [Sales] > 500 THEN "MEDIUM" ELSE "LOW" END
+- CASE [Country] WHEN "Turkiye" THEN "TR" WHEN "Canada" THEN "CA" WHEN "Germany" THEN "DE" ELSE "n/a" END
+- IIF([Sales] > 1000, "HIGH", "LOW")
