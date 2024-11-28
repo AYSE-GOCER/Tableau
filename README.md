@@ -147,3 +147,4 @@ Example 19: Logical Functions: "IF, ELSEIF, IIF" support **any data type**, but 
 - IF SUM([Sales]) > 200000 THEN "green" ELSEIF SUM([Sales]) > 100000 THEN "orange" ELSE SUM([Sales]) <= 100000 THEN "red" END
 - IF [Sales] > 1000 **AND** [Country] = "Germany" THEN "HIGH" END
 - IF [Sales] > 1000 **OR** [Country] = "Germany" THEN "HIGH" END
+- IF [Sales] > 1000 **AND** [Country] = "Germany" THEN [Sales] END
