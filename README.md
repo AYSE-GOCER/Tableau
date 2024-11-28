@@ -148,3 +148,4 @@ Example 19: Logical Functions: "IF, ELSEIF, IIF" support **any data type**, but 
 - IF [Sales] > 1000 **AND** [Country] = "Germany" THEN "HIGH" END
 - IF [Sales] > 1000 **OR** [Country] = "Germany" THEN "HIGH" END
 - IF [Sales] > 1000 **AND** [Country] = "Germany" THEN [Sales] END
+- IF **NOT** [Country] = "Germany" THEN [Sales] END
