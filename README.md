@@ -155,5 +155,6 @@ Example 20: LOD Functions:
 
 Fixed:
 { FIXED [Customer_ID] : COUNT([Order_ID]) }
-![customer_royalty](https://github.com/user-attachments/assets/fd147d92-f6ac-44e7-af57-331a474d947e)
+![customer_royalty](https://github.com/user-attachments/assets/e8086383-1b4f-4536-841b-68f923a7691d)
+
 [See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_20/HistogramCustomerLoyalty?publish=yes)
