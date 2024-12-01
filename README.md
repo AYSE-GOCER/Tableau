@@ -150,3 +150,10 @@ Example 19: Logical Functions: "IF, ELSEIF, IIF" support **any data type**, but 
 - IF [Sales] > 1000 **AND** [Country] = "Germany" THEN [Sales] END
 - IF **NOT** [Country] = "Germany" THEN [Sales] END
 - ATTR([Postal Code])
+
+Example 20: LOD Functions:
+
+Fixed:
+{ FIXED [Customer_ID] : COUNT([Order_ID]) }
+![customer_royalty](https://github.com/user-attachments/assets/fd147d92-f6ac-44e7-af57-331a474d947e)
+[See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_20/HistogramCustomerLoyalty?publish=yes)
