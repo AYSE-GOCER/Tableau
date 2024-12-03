@@ -170,6 +170,7 @@ Example 21: Table Calculations (First, Last, Index, Rank)
 - Index()
 - Rank(SUM([Sales]))
 ![table_calc](https://github.com/user-attachments/assets/5e4697f6-94d7-46e9-9e6d-e51ae137c374)
+
 [See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/Ayse_Dynamic_WorkSheet_22/TableCalculations?publish=yes)
 
 [See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/Ayse_Dynamic_WorkSheet_23/TABLECALC_?publish=yes)
