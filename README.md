@@ -162,3 +162,12 @@ Example 20: LOD Functions:
 { EXCLUDE [Sub_Category]: SUM([Sales of Tables])}
 ![exclude](https://github.com/user-attachments/assets/07bb6105-74d3-449d-9bbc-9ca83cfeb67b)
 [See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/AyseGocer_dynamic_worksheet_21/ComparativeSalesAnalysisbyCategory?publish=yes)
+
+Example 21: Table Calculations (First, Last, Index, Rank)
+
+- First()
+- Last()
+- Index()
+- Rank(SUM([Sales]))
+![table_calc](https://github.com/user-attachments/assets/5e4697f6-94d7-46e9-9e6d-e51ae137c374)
+[See the interactive worksheet](https://public.tableau.com/app/profile/ayse.gocer/viz/Ayse_Dynamic_WorkSheet_22/TableCalculations?publish=yes)
